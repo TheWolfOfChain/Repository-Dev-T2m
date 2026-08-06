@@ -118,9 +118,8 @@ Siamo pronti ad aiutarti a integrare <strong>TA2MA&trade;</strong> nei tuoi proc
 <ul>
   <li><strong>Email:</strong> dev.chainmodel@ta2ma.it</li> 
   <li><strong>Telefono:</strong> +393516328005</li>
-  <li><strong>Indirizzo:</strong> Via Castiglioni 23 Mozzate (22076)</li>
-</ul>
-© 2025 TATUMA Dev.Chain. </body>
+  <li>
+© 2025 TA2MA Dev.Chain. </body>
 </html>
 </head>
 
